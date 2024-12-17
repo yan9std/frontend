@@ -1,0 +1,124 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4356735 */
+  src: url('iconfont.woff2?t=1701604611683') format('woff2'),
+       url('iconfont.woff?t=1701604611683') format('woff'),
+       url('iconfont.ttf?t=1701604611683') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*用户*/
+.icon-user:before {
+    content: "\e8c8";
+}
+
+/*密码*/
+.icon-password:before {
+    content: "\e629";
+}
+
+/*登录按钮*/
+.icon-login-button:before {
+    content: "\e6bd";
+}
+
+/*注册按钮*/
+.icon-register-button:before {
+    content: "\e6d6";
+}
+
+/*返回按钮*/
+.icon-back-button:before {
+    content: "\e8a4";
+}
+
+/*搜索按钮*/
+.icon-search-menu:before {
+    content: "\e8d6";
+}
+
+/*新增按钮*/
+.icon-add-button:before {
+    content: "\e600";
+}
+
+/*修改按钮*/
+.icon-edit-button:before {
+    content: "\e6b0";
+}
+
+/*删除按钮*/
+.icon-del-button:before {
+    content: "\e74b";
+}
+
+/*重置按钮*/
+.icon-reset-button:before {
+    content: "\e61c";
+}
+
+/*扣费按钮*/
+.icon-reduce-button:before {
+    content: "\e718";
+}
+
+/*预定按钮*/
+.icon-order-button:before {
+    content: "\e697";
+}
+
+/*首页菜单*/
+.icon-home-menu:before {
+    content: "\e8b9";
+}
+
+/*用户信息菜单*/
+.icon-user-menu:before {
+    content: "\e8c8";
+}
+
+/*车位信息菜单*/
+.icon-stall-menu:before {
+    content: "\e8b9";
+}
+
+/*车位信息菜单*/
+.icon-stall-menu:before {
+    content: "\ebfb";
+}
+
+/*车位费用菜单*/
+.icon-stall-fee-menu:before {
+    content: "\e623";
+}
+
+/*停泊车辆菜单*/
+.icon-paring-menu:before {
+    content: "\e6a7";
+}
+
+/*车辆进出菜单*/
+.icon-car-in-out-menu:before {
+    content: "\e607";
+}
+
+/*登录日志菜单*/
+.icon-log-menu:before {
+    content: "\e647";
+}
+
+/*待缴费*/
+.icon-wait-fee:before {
+    content: "\e605";
+}
+
+.icon-data-overview::before {
+    content: "\e647";
+}
+
